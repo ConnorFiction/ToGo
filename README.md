@@ -1,2 +1,2 @@
 # ToGo
-An efficient To-Do manager written in Golang
+An efficient To-Do manager written in Golang, tbc
